@@ -1,4 +1,4 @@
-# Deal Space — Agent-Native Origination Workspace (Prototype Spec)
+# Mandate — Agent-Native Origination Workspace (Prototype Spec)
 
 > Build brief for an AI coding agent (Claude Code / Codex). Read the whole file before writing code. Build milestone by milestone; each milestone has acceptance criteria. Use **synthetic data only** — no real client, deal, or firm data.
 

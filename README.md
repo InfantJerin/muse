@@ -1,4 +1,4 @@
-# Deal Space
+# Mandate
 
 A local origination UX prototype with synthetic data. Built with native JavaScript modules and CSS, with no build step or package dependencies. Node.js 20+ is recommended.
 
@@ -21,7 +21,7 @@ Open http://127.0.0.1:5173. Run `npm test` for workflow transition tests.
 - Product setup, credit agreement, closing, servicing: views that follow the live structure, each with a named owner.
 - Assistant: activity-scoped conversations and deterministic demonstration responses.
 
-Chat is the default home, with an always-visible composer and independently scrolling messages. Deal progress opens on demand. Selecting an activity opens its scoped conversation with an inline preview. Open full draft / comparison is a separate action; on wide screens the working surface sits beside the chat. Free-text activity directions are retained as working notes, not applied automatically to facts or documents. Use the source inspector for quick evidence checks. Browser localStorage preserves changes; clear `deal-space-v1` to reset the demo.
+Chat is the default home, with an always-visible composer and independently scrolling messages. Deal progress opens on demand. Selecting an activity opens its scoped conversation with an inline preview. Open full draft / comparison is a separate action; on wide screens the working surface sits beside the chat. Free-text activity directions are retained as working notes, not applied automatically to facts or documents. Use the source inspector for quick evidence checks. Browser localStorage preserves changes; clear `mandate-v1` to reset the demo.
 
 ## Collaboration walkthrough
 
